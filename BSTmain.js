@@ -16,3 +16,4 @@ var tree2 = new BST();
 tree2.add(5,3);
 
 console.log(tree2.dan);
+console.log(BST.danish);
